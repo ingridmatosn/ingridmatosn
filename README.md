@@ -24,6 +24,7 @@ Jira · Postman · SQL · PostgreSQL · Cygwin · Python · Selenium WebDriver �
 
 Projetos em destaque:
 
+- [Projeto Final — Testes Web, Mobile e API (Urban Scooter): 105 casos, 41 bugs no Jira](https://github.com/ingridmatosn/QA-Projeto-Final-Urban-Scooter)
 - [Automação de testes E2E — Urban Routes (Python, Selenium, Pytest, POM)](https://github.com/ingridmatosn/QA-Brazil_Python_Automation)
 - [Sprint 1 — Testes Funcionais](https://github.com/ingridmatosn/Qa-Sprint1-Testes-Funcionais)
 - [Sprint 3 — Testes Web Cross-Browser](https://github.com/ingridmatosn/Qa-Sprint3-Testes-Web)
